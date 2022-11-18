@@ -30,7 +30,7 @@ chrono         = "0.4"
 clap           = { version = "4.0", features = ["cargo"] }
 clap_complete  = "4.0"
 colored        = "2"
-config         = { version = "0.11", default-features = false, features = [ "toml" ] }
+config         = { version = "0.13", default-features = false, features = [ "toml" ] }
 csv            = "1.1"
 daggy          = { version = "0.8", features = [ "serde" ] }
 dialoguer      = "0.10"
